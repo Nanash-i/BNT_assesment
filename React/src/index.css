@@ -1,0 +1,58 @@
+body{
+  background-color: #303030;
+
+}
+.count button{
+  height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+
+.toggle-btn button{
+   height: 50px;
+  width: 100px;
+  border-radius: 10px;
+  font-size: 15px;
+}
+ul,li{
+  list-style: none;
+  font-size: 30px;
+}
+
+.check input{
+  height: 50px;
+  width: 50px;
+}
+.check label{
+    font-size: 30px;
+}
+.Controlled-input input{
+height: 50px;
+  width: 200px;
+  border-radius: 5%;
+}
+.Controlled-input {
+  font-size: 25px;
+}
+.reusable-input-component input{
+   height: 50px;
+  width: 200px;
+  border-radius: 5%;
+}
+.reusable-input-component {
+  font-size: 25px;
+}
+.login-form{
+  height: 200px;
+  width: 200px;
+  background-color:aquamarine;
+  margin: 20px 20px;
+  padding: 20px 20px;
+  line-height: 40px;
+  position: relative;
+  left: 40%;
+  margin-bottom: 10px;
+  
+
+}
